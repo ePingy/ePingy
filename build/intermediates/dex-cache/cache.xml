@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-22305420ade0e39248b42eafd4b2a18c7cca4d23.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-03ae5e2b5172db23d2b88dc7d21c6d0a29cb22a3.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e0d3079230ead817565dcc04f71274208b199c0a.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/EasyReach/pulltorefresh_library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7fa7ad44adf9b5497ab5c2de8797b7f32a301820">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-af1717f9ce2d327aae71fdc8404136bdd6f981f5.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4796f18d3750bf2bfa078407a94a7f9db35b440d">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-2eb18f7f6878ab17cf4eb97e2363b5aa8d772b7f.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-bbaa15f8dbbd49fa4adcffbcc22ab0304a597f3d.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ca319f998430aa20c4dde97ba6df213d6cf3dd0">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/classes-491c587e1025900b99ed65de27bdec271228e171.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6b64ce22f89138bc3e47a24174d22c205085681c.jar" />
+    </item>
+    <item
+        jar="/Users/jhansi/Documents/AllJoyn/EasyReach/app/libs/alljoyn.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="964cf6ff631f5fba5f6615a7c901ac2577db44e4">
+        <dex dex="/Users/jhansi/Documents/AllJoyn/EasyReach/app/build/intermediates/pre-dexed/debug/alljoyn-5272c346d782c0ec5796c014dc2979656a60134c.jar" />
+    </item>
+
+</items>

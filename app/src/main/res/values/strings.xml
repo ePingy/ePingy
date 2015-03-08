@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ePingy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="epingy">ePingy</string>
+    <string name="deviceFriendlyName">Device friendly name</string>
+    <string name="devicesNotFound">No ePingy devices found</string>
+    <string name="message">You got a ping from</string>
+    <string name="newMessage">New message</string>
+    <string name="notification">Notification!</string>
+    <string name="coffee">pinged you for a coffee</string>
+    <string name="lunch">pinged you for a lunch</string>
+    <string name="waiting">is waiting at your desk</string>
+    <string name="comeToMyDesk"> asked you to come to their desk</string>
+    <string name="beer">pinged you for beer tonight</string>
+    <string name="shopping">pinged you for shopping over the weekend</string>
+    <string name="movieTonight">pinged you for movie tonight</string>
+
+    <string name="coffeeMsg">Coffee</string>
+    <string name="shoppingMsg">Shopping over weekend</string>
+    <string name="movieTonightMsg">Movie tonight</string>
+    <string name="beerMsg">Beer tonight</string>
+    <string name="waitingMsg">Waiting at your desk</string>
+    <string name="lunchMsg">Lunch</string>
+    <string name="comeToMyDeskMsg">Come to my desk</string>
+</resources>

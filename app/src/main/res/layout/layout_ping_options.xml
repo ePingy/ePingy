@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include
+            layout="@layout/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/coffee"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/coffeeMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/lunch"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/lunchMsg"
+                card_view:typeface="roboto_light" />
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/waiting"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/waitingMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/comeToMyDesk"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/comeToMyDeskMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/beer"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/beerMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/shopping"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/shoppingMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/smallPadding"
+            android:background="@android:color/white">
+
+            <com.ePingy.ui.RobotoButton
+                android:id="@+id/movieTonight"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:text="@string/movieTonightMsg"
+                card_view:typeface="roboto_light" />
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>
