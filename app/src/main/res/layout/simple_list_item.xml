@@ -21,6 +21,8 @@
     android:gravity="center_vertical"
     android:minHeight="?android:attr/listPreferredItemHeightSmall"
     android:textStyle="bold"
-    android:padding="@dimen/smallPadding"
+    android:paddingTop="@dimen/smallPadding"
+    android:paddingBottom="@dimen/smallPadding"
+    android:paddingLeft="@dimen/mediumPadding"
     android:textAppearance="?android:attr/textAppearanceListItemSmall"
     card_view:typeface="roboto_light" />
