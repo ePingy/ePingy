@@ -43,6 +43,13 @@ ePingy allows user to customize more buttons to speed up user communication
 <li>ePingy over Bluetooth</li>
 <li>Any other ideas are welcome too!!</li>
 </ul>
+
+<b>References</b>
+<p>ePingy internally uses allJoyn P2P SDK(https://allseenalliance.org/) which is a cross platform sdk with its sdk available for<p>
+<ul><li>Android</li>
+<li>IOS</li>
+<li>Windows</li></ul>
+
 <p>
 </html>
 
